@@ -61,7 +61,8 @@ function Login({navigation}){
         top:{
           marginLeft: 20,
           marginTop: 50,
-          flexDirection: "row"
+          flexDirection: "row",
+          marginBottom:20
         },
         imagem:{
           width:300,
